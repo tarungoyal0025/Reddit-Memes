@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reddit-Memes/static/css/main.e6c13ad2.css",
+    "main.js": "/Reddit-Memes/static/js/main.6f36446e.js",
+    "static/js/787.a45f8927.chunk.js": "/Reddit-Memes/static/js/787.a45f8927.chunk.js",
+    "index.html": "/Reddit-Memes/index.html",
+    "main.e6c13ad2.css.map": "/Reddit-Memes/static/css/main.e6c13ad2.css.map",
+    "main.6f36446e.js.map": "/Reddit-Memes/static/js/main.6f36446e.js.map",
+    "787.a45f8927.chunk.js.map": "/Reddit-Memes/static/js/787.a45f8927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6f36446e.js"
+  ]
+}
